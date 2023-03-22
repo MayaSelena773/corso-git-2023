@@ -2,4 +2,4 @@
 
 Questa è la repository ufficiale del corso di git.
 
-mattia.folcarelli@gmail.com
+mattia.folcarelli@gmail.com .
