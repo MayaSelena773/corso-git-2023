@@ -1,0 +1,1 @@
+`git status` per vedere lo stato della repo locale
