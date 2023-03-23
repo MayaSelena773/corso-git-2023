@@ -29,5 +29,5 @@
 Mirko Casaccia  
 Flavio Pinto  
 
-![Cane](https://picsum.photos/id/237/200/300 "Cane nero che tu guarda negli occhi")
+[!["Cane nero che tu guarda negli occhi"](https://picsum.photos/id/237/200/300 "Cliccami!")](https://www.google.com)
 
