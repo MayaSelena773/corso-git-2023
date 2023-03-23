@@ -17,7 +17,7 @@ https://www.markdownguide.org/
 
 https://www.youtube.com/embed/JDxhkdm_t1U
 
-backtick alt 96
+> backtick alt 96
 
 
 Premere i tasti AltGr + ì per scrivere il carattere tilde (~) e i tasti AltGr + ' per scrivere il carattere backtick (\`).
@@ -34,3 +34,7 @@ git commit -m "ciao"
 ```
 
 mi raccomando usare spesso il comando `git commit` perchè sì.
+
+- [ ] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
