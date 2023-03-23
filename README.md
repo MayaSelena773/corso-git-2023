@@ -33,3 +33,6 @@ Flavio Pinto
 
 
 <img src="Git-logo.svg" width="200" height="100">
+
+
+@kiakkierina ha un pc lentissimo
