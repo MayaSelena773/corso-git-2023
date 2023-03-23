@@ -31,3 +31,7 @@ Flavio Pinto
 
 [!["Cane nero che tu guarda negli occhi"](https://picsum.photos/id/237/200/300 "Cliccami!")](https://www.google.com)
 
+
+<img src="Git-logo.svg" width="200" height="100">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JDxhkdm_t1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
