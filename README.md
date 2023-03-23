@@ -6,5 +6,5 @@
 
 * **Contatti:** mattia.folcarelli@gmail.com  
 * **Pagina github corso:** https://github.com/lichfolky/corso-git-2023  
-* **Documentazione:** [qui](www.google.com)
+* **Documentazione:** [qui](https://www.google.com)
 
