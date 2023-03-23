@@ -4,6 +4,7 @@
 
 *Git come non l'hai mai visto* -- Mattia Folcarelli
 
+
 * **Contatti:** mattia.folcarelli@gmail.com  
 * **Pagina github corso:** https://github.com/lichfolky/corso-git-2023  
 * [**Prima lezione**](2023-03-22.md)
@@ -27,4 +28,6 @@
 
 Mirko Casaccia  
 Flavio Pinto  
+
+![Cane](https://picsum.photos/id/237/200/300 "Cane nero che tu guarda negli occhi")
 
